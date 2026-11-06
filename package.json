@@ -168,7 +168,7 @@
     "webpack-dev-server": {
       "express": "^4.22.2"
     },
-    "launch-editor": "2.14.1",
+    "launch-editor": "2.14.2",
     "engine.io": {
       ".": "6.6.10",
       "ws": "$ws"
@@ -370,7 +370,7 @@
     "http-z": "^8.1.1",
     "istextorbinary": "^9.5.0",
     "js-rouge": "^3.2.0",
-    "js-yaml": "5.4.1",
+    "js-yaml": "5.4.2",
     "json5": "^2.2.3",
     "keyv": "^5.6.0",
     "keyv-file": "^5.3.3",
