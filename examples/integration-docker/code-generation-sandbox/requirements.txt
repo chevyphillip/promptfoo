@@ -1,4 +1,4 @@
-certifi==2025.10.5
+certifi==2026.10.18
 charset-normalizer==3.3.2
 docker==7.1.0
 epicbox==1.1.0
@@ -7,4 +7,4 @@ python-dateutil==2.9.0.post0
 requests==2.33.0
 six==1.16.0
 structlog==24.2.0
-urllib3==2.7.0
+urllib3==2.8.0
